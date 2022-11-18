@@ -6,7 +6,7 @@ I'm interested in Backend Development from South Korea.
 - 🌱 I’m currently learning ... ReactJs
 - 🌱 I’m currently learning Spring Boot
 - 🌱 I’m currently learning ... Djiango
-- - 🌱 I’m currently learning ... MongoDB
+- 🌱 I’m currently learning ... MongoDB
 - 📫 How to reach me: ... https://velog.io/@chaenii25
 
 <!--
