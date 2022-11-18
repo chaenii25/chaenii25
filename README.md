@@ -6,7 +6,8 @@ I'm interested in Backend Development from South Korea.
 - 🌱 I’m currently learning ... ReactJs
 - 🌱 I’m currently learning Spring Boot
 - 🌱 I’m currently learning ... Djiango
-- 📫 How to reach me: ...
+- - 🌱 I’m currently learning ... MongoDB
+- 📫 How to reach me: ... https://velog.io/@chaenii25
 
 <!--
 **chaenii25/chaenii25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
