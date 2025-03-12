@@ -2,11 +2,8 @@
 
 I'm interested in Backend Development from South Korea.
 - 🔭 I’m a student who to become a good backend developer
-- 🌱 I’m currently learning ... Node.js
-- 🌱 I’m currently learning ... ReactJs
 - 🌱 I’m currently learning Spring Boot
-- 🌱 I’m currently learning ... Djiango
-- 🌱 I’m currently learning ... MongoDB
+
 - 📫 How to reach me: ... https://velog.io/@chaenii25
 
 <!--
