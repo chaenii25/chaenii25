@@ -4,7 +4,7 @@ I'm interested in Backend Development from South Korea.
 - 🔭 I’m a student who to become a good backend developer
 - 🌱 I’m currently learning Spring Boot
 
-- 📫 How to reach me: ... https://velog.io/@chaenii25
+- 📫 How to reach me: ...
 
 <!--
 **chaenii25/chaenii25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
