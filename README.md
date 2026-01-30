@@ -20,9 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-docs/2026-01-28-jwt-note.md
-# JWT Filter Flow
-
-- AuthenticationFilter → SecurityContext
-- 다음에 정리 필요
